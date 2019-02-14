@@ -1,0 +1,63 @@
+{
+  "uid" : "dbd272536c314fe4",
+  "name" : "Redirect",
+  "fullName" : "framework.TestAllureReport.test003",
+  "historyId" : "a54fd00610f7a9d95cf655afa4ec5c87",
+  "time" : {
+    "start" : 1542859315108,
+    "stop" : 1542859315158,
+    "duration" : 50
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Basic function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "59371@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testMethod",
+    "value" : "test003"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbd272536c314fe4.json",
+  "parameterValues" : [ ]
+}

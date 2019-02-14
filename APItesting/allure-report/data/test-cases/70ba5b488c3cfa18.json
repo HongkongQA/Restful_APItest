@@ -1,0 +1,48 @@
+{
+  "uid" : "70ba5b488c3cfa18",
+  "name" : "Test HTTPS",
+  "fullName" : "framework.TestWiremock.test007",
+  "historyId" : "53e2fa4e4bd7e350e0f0832070c7a320",
+  "time" : {
+    "start" : 1542798365213,
+    "stop" : 1542798367574,
+    "duration" : 2361
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "58787@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testMethod",
+    "value" : "test007"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70ba5b488c3cfa18.json",
+  "parameterValues" : [ ]
+}

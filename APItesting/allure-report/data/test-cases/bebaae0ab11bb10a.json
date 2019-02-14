@@ -1,0 +1,48 @@
+{
+  "uid" : "bebaae0ab11bb10a",
+  "name" : "GetLastBuildTestResult()",
+  "fullName" : "framework.TestJenkins.GetLastBuildTestResult",
+  "historyId" : "a49f3e779b042880f03a263c14be481f",
+  "time" : {
+    "start" : 1548909264535,
+    "stop" : 1548909264626,
+    "duration" : 91
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "80304@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestJenkins"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestJenkins"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetLastBuildTestResult"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestJenkins"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bebaae0ab11bb10a.json",
+  "parameterValues" : [ ]
+}

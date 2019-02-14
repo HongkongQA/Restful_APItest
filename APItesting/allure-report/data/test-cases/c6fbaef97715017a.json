@@ -1,0 +1,108 @@
+{
+  "uid" : "c6fbaef97715017a",
+  "name" : "Basic listening rule settings",
+  "fullName" : "framework.TestAllureReport.test001",
+  "historyId" : "8857bc13ab387377e9d99e12b939348f",
+  "time" : {
+    "start" : 1542860663549,
+    "stop" : 1542860664710,
+    "duration" : 1161
+  },
+  "description" : "This is wiremock demo !",
+  "descriptionHtml" : "<p>This is wiremock demo !</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "This is wiremock demo !",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Define wiremock response",
+      "time" : {
+        "start" : 1542860663577,
+        "stop" : 1542860663642,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Verify response status",
+      "time" : {
+        "start" : 1542860663642,
+        "stop" : 1542860664700,
+        "duration" : 1058
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Basic function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "59468@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testMethod",
+    "value" : "test001"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "288.html",
+    "type" : "hongkongqa"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6fbaef97715017a.json",
+  "parameterValues" : [ ]
+}

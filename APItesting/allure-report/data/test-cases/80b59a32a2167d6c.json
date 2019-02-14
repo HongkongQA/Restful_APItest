@@ -1,0 +1,48 @@
+{
+  "uid" : "80b59a32a2167d6c",
+  "name" : "--1-- Get repo:Hongkongqa/LINK_Automation",
+  "fullName" : "framework.TestParameter.test_ExcelDataFile",
+  "historyId" : "9dba676d1470c4c7c6bda49d9b823323",
+  "time" : {
+    "start" : 1547452770318,
+    "stop" : 1547452773387,
+    "duration" : 3069
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "47004@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_ExcelDataFile"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80b59a32a2167d6c.json",
+  "parameterValues" : [ ]
+}

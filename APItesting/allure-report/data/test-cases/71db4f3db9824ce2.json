@@ -1,0 +1,48 @@
+{
+  "uid" : "71db4f3db9824ce2",
+  "name" : "Executed 3 times to get GT user data",
+  "fullName" : "framework.TestParameter.test_valueSource",
+  "historyId" : "22f660dde621c15df3dad403a1f21433",
+  "time" : {
+    "start" : 1548409756161,
+    "stop" : 1548409757234,
+    "duration" : 1073
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "71001@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_valueSource"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71db4f3db9824ce2.json",
+  "parameterValues" : [ ]
+}

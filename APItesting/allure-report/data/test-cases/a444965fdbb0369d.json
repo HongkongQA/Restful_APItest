@@ -1,0 +1,48 @@
+{
+  "uid" : "a444965fdbb0369d",
+  "name" : "Executed 2 times to get rest-assured user data",
+  "fullName" : "framework.TestParameter.test_valueSource",
+  "historyId" : "151089adfcd51fb154cfe84d02a2835f",
+  "time" : {
+    "start" : 1547452786253,
+    "stop" : 1547452787812,
+    "duration" : 1559
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "47007@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_valueSource"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a444965fdbb0369d.json",
+  "parameterValues" : [ ]
+}

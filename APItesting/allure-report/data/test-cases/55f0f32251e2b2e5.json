@@ -1,0 +1,63 @@
+{
+  "uid" : "55f0f32251e2b2e5",
+  "name" : "ServerError",
+  "fullName" : "framework.TestWiremock.test004",
+  "historyId" : "aefa4e8362c482c2b5b5b58072aab4ea",
+  "time" : {
+    "start" : 1548409850299,
+    "stop" : 1548409850327,
+    "duration" : 28
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Advanced function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "71015@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testMethod",
+    "value" : "test004"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55f0f32251e2b2e5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,108 @@
+{
+  "uid" : "b40ad8cca9805a7d",
+  "name" : "Basic listening rule settings",
+  "fullName" : "framework.TestWiremock.test001",
+  "historyId" : "f917b5f3f230747891e879e6dff81482",
+  "time" : {
+    "start" : 1547439197648,
+    "stop" : 1547439198728,
+    "duration" : 1080
+  },
+  "description" : "This is wiremock demo !",
+  "descriptionHtml" : "<p>This is wiremock demo !</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "This is wiremock demo !",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Define wiremock response",
+      "time" : {
+        "start" : 1547439197675,
+        "stop" : 1547439197735,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Verify response status",
+      "time" : {
+        "start" : 1547439197736,
+        "stop" : 1547439198718,
+        "duration" : 982
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Basic function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "46464@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testMethod",
+    "value" : "test001"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "288.html",
+    "type" : "hongkongqa"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b40ad8cca9805a7d.json",
+  "parameterValues" : [ ]
+}

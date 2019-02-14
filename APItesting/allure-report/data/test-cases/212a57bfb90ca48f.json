@@ -1,0 +1,49 @@
+{
+  "uid" : "212a57bfb90ca48f",
+  "name" : "Get response content from file",
+  "fullName" : "framework.TestWiremock.test008",
+  "historyId" : "2c001c680cdf77a9aa15875e65308cf2",
+  "time" : {
+    "start" : 1542798132777,
+    "stop" : 1542798132777,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "skipped",
+  "statusMessage" : "public void framework.TestWiremock.test008() is @Disabled",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "58767@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testMethod",
+    "value" : "test008"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "212a57bfb90ca48f.json",
+  "parameterValues" : [ ]
+}

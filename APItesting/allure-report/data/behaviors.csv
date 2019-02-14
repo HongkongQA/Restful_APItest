@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","","","3","0","22","1","0"
+"WireMockTestDemo","WireMockForJunit5","Basic function test","0","0","8","0","0"
+"WireMockTestDemo","WireMockForJunit5","Advanced function test","0","0","8","0","0"
+"WireMockTestDemo","WireMockForJunit5","Basic","0","0","1","0","0"

@@ -1,0 +1,49 @@
+{
+  "uid" : "5e1de0506d78056e",
+  "name" : "Post_Method_AWQ()",
+  "fullName" : "framework.RunControl.Post_Method_AWQ",
+  "historyId" : "f27c4b0bf5f8de7cadb768d62f199a0",
+  "time" : {
+    "start" : 1547631911289,
+    "stop" : 1547631911289,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "skipped",
+  "statusMessage" : "void framework.RunControl.Post_Method_AWQ() is @Disabled",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "52226@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "testMethod",
+    "value" : "Post_Method_AWQ"
+  }, {
+    "name" : "suite",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e1de0506d78056e.json",
+  "parameterValues" : [ ]
+}

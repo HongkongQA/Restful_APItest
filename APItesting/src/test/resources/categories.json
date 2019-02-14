@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Successfully executed test",
+    "matchedStatuses": ["passed"]
+  },
+  {
+    "name": "Inconsistent match information",
+    "messageRegex": ".*expect.*",
+    "matchedStatuses": ["broken", "failed"]
+  },
+  {
+    "name": "No corresponding class found",
+    "traceRegex": ".*FileNotFoundException.*",
+    "matchedStatuses": ["broken"]
+  },
+  {
+    "name": "Execution failed case",
+    "matchedStatuses": ["broken","failed"]
+  }
+]

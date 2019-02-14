@@ -1,0 +1,48 @@
+{
+  "uid" : "70337daa3ad21f97",
+  "name" : "--2-- Execute Post_Method",
+  "fullName" : "framework.TestRunOrder.testAllCase",
+  "historyId" : "75d5a84d175a4198bea94b5faa5b405",
+  "time" : {
+    "start" : 1542947828594,
+    "stop" : 1542947831275,
+    "duration" : 2681
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "61694@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestRunOrder"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestRunOrder"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAllCase"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestRunOrder"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70337daa3ad21f97.json",
+  "parameterValues" : [ ]
+}

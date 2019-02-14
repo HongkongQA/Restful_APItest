@@ -1,0 +1,48 @@
+{
+  "uid" : "c4b32efe04f26d8d",
+  "name" : "Executed 1 times to get hongkongqa user data",
+  "fullName" : "framework.TestParameter.test_valueSource",
+  "historyId" : "3baeed8ffcd3a7b1851179c36cb0def5",
+  "time" : {
+    "start" : 1548409857959,
+    "stop" : 1548409859133,
+    "duration" : 1174
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "71015@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_valueSource"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4b32efe04f26d8d.json",
+  "parameterValues" : [ ]
+}

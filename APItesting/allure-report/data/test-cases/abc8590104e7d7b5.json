@@ -1,0 +1,155 @@
+{
+  "uid" : "abc8590104e7d7b5",
+  "name" : "Basic listening rule settings",
+  "fullName" : "framework.TestAllureReport.test001",
+  "historyId" : "8857bc13ab387377e9d99e12b939348f",
+  "time" : {
+    "start" : 1542946529061,
+    "stop" : 1542946530268,
+    "duration" : 1207
+  },
+  "description" : "This is wiremock demo !",
+  "descriptionHtml" : "<p>This is wiremock demo !</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "This is wiremock demo !",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Define wiremock response",
+      "time" : {
+        "start" : 1542946529095,
+        "stop" : 1542946529156,
+        "duration" : 61
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Verify response status",
+      "time" : {
+        "start" : 1542946529156,
+        "stop" : 1542946530258,
+        "duration" : 1102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Basic function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "61658@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testMethod",
+    "value" : "test001"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "288.html",
+    "type" : "hongkongqa"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "owner" : "hongkongqa",
+    "retries" : [ {
+      "uid" : "c6fbaef97715017a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542860663549,
+        "stop" : 1542860664710,
+        "duration" : 1161
+      }
+    }, {
+      "uid" : "535ec7d18c5ab089",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542859622111,
+        "stop" : 1542859623255,
+        "duration" : 1144
+      }
+    }, {
+      "uid" : "e801148d31b0a677",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542859313815,
+        "stop" : 1542859314940,
+        "duration" : 1125
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "74d6c4bc55571020",
+        "reportUrl" : "http://localhost:1082/job/RestApi/1/allure/#testresult/74d6c4bc55571020",
+        "status" : "passed",
+        "time" : {
+          "start" : 1542860663549,
+          "stop" : 1542860664710,
+          "duration" : 1161
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "abc8590104e7d7b5.json",
+  "parameterValues" : [ ]
+}

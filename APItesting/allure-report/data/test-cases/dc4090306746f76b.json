@@ -1,0 +1,48 @@
+{
+  "uid" : "dc4090306746f76b",
+  "name" : "--1-- Execute Get_Method_AWQ",
+  "fullName" : "framework.TestRunOrder.testAllCase",
+  "historyId" : "745e083a462e1a52fcd5b2e09f8d9667",
+  "time" : {
+    "start" : 1547632043081,
+    "stop" : 1547632045963,
+    "duration" : 2882
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "52233@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestRunOrder"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestRunOrder"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAllCase"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestRunOrder"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc4090306746f76b.json",
+  "parameterValues" : [ ]
+}

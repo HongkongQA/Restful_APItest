@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:1082/job/RestApi/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 2
+  }
+} ]

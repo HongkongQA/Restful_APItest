@@ -1,0 +1,170 @@
+{
+  "uid" : "e4ef3fa508151b69",
+  "name" : "Get response content from file",
+  "fullName" : "framework.TestWiremock.test008",
+  "historyId" : "2c001c680cdf77a9aa15875e65308cf2",
+  "time" : {
+    "start" : 1548904935725,
+    "stop" : 1548904936042,
+    "duration" : 317
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Basic function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "79786@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testMethod",
+    "value" : "test008"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "owner" : "hongkongqa",
+    "retries" : [ {
+      "uid" : "dde460b6e7580d38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548409852726,
+        "stop" : 1548409853059,
+        "duration" : 333
+      }
+    }, {
+      "uid" : "14bb4dcc999c2608",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548409748057,
+        "stop" : 1548409748417,
+        "duration" : 360
+      }
+    }, {
+      "uid" : "287f1e290e7aacbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547545022414,
+        "stop" : 1547545023693,
+        "duration" : 1279
+      }
+    }, {
+      "uid" : "f27a3cb21bc4758f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547456888378,
+        "stop" : 1547456888783,
+        "duration" : 405
+      }
+    }, {
+      "uid" : "e00af02dc3550fce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547439200530,
+        "stop" : 1547439200906,
+        "duration" : 376
+      }
+    }, {
+      "uid" : "f8985c4d74478b1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546510273321,
+        "stop" : 1546510273673,
+        "duration" : 352
+      }
+    }, {
+      "uid" : "841f43cf89f8b270",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545981134569,
+        "stop" : 1545981134978,
+        "duration" : 409
+      }
+    }, {
+      "uid" : "c196421967242c78",
+      "status" : "skipped",
+      "statusDetails" : "public void framework.TestWiremock.test008() is @Disabled",
+      "time" : {
+        "start" : 1542798415093,
+        "stop" : 1542798415094,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "16fa5b2ae1a450a9",
+      "status" : "skipped",
+      "statusDetails" : "public void framework.TestWiremock.test008() is @Disabled",
+      "time" : {
+        "start" : 1542798367576,
+        "stop" : 1542798367577,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "212a57bfb90ca48f",
+      "status" : "skipped",
+      "statusDetails" : "public void framework.TestWiremock.test008() is @Disabled",
+      "time" : {
+        "start" : 1542798132777,
+        "stop" : 1542798132777,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 1,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "bdf60f9ecfd62a3f",
+        "reportUrl" : "http://localhost:1082/job/RestApi/1/allure/#testresult/bdf60f9ecfd62a3f",
+        "status" : "skipped",
+        "statusDetails" : "public void framework.TestWiremock.test008() is @Disabled",
+        "time" : {
+          "start" : 1542798415093,
+          "stop" : 1542798415094,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e4ef3fa508151b69.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,176 @@
+{
+  "uid" : "60a5f0a6d3078d98",
+  "name" : "--1-- contains the login field",
+  "fullName" : "framework.TestParameter.test_enum",
+  "historyId" : "358e9eef6bc63ad7b5ac65e7c419be5e",
+  "time" : {
+    "start" : 1548904947621,
+    "stop" : 1548904949512,
+    "duration" : 1891
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "79786@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_enum"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2567b8d3a22012b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548409861138,
+        "stop" : 1548409863123,
+        "duration" : 1985
+      }
+    }, {
+      "uid" : "f82e4d97e4f38d43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548409757239,
+        "stop" : 1548409758435,
+        "duration" : 1196
+      }
+    }, {
+      "uid" : "13ae68c4db93a3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547700557858,
+        "stop" : 1547700561123,
+        "duration" : 3265
+      }
+    }, {
+      "uid" : "c8b97b8c47316c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547700518168,
+        "stop" : 1547700521815,
+        "duration" : 3647
+      }
+    }, {
+      "uid" : "12a7d1c5b7cd16bc",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nJSON path $ doesn't match.\nExpected: map containing [\"login\"->ANYTHING]\n  Actual: {message=Not Found, documentation_url=https://developer.github.com/v3/users/#get-a-single-user}\n",
+      "time" : {
+        "start" : 1547700277834,
+        "stop" : 1547700281004,
+        "duration" : 3170
+      }
+    }, {
+      "uid" : "622e24a73017c733",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547700256275,
+        "stop" : 1547700259535,
+        "duration" : 3260
+      }
+    }, {
+      "uid" : "3573107a8b34da3c",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nJSON path $ doesn't match.\nExpected: map containing [\"login\"->ANYTHING]\n  Actual: {message=Not Found, documentation_url=https://developer.github.com/v3/users/#get-a-single-user}\n",
+      "time" : {
+        "start" : 1547700144432,
+        "stop" : 1547700147554,
+        "duration" : 3122
+      }
+    }, {
+      "uid" : "eccd2bbb043e905c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547699909014,
+        "stop" : 1547699912240,
+        "duration" : 3226
+      }
+    }, {
+      "uid" : "eabbba049f35e082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547454575605,
+        "stop" : 1547454577630,
+        "duration" : 2025
+      }
+    }, {
+      "uid" : "2fa47b49b5e801fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547452789437,
+        "stop" : 1547452791506,
+        "duration" : 2069
+      }
+    }, {
+      "uid" : "e9c7db4d5087d32a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547452782601,
+        "stop" : 1547452784428,
+        "duration" : 1827
+      }
+    }, {
+      "uid" : "7bef751d35d858af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545981143103,
+        "stop" : 1545981144292,
+        "duration" : 1189
+      }
+    }, {
+      "uid" : "7a330bb63688a3bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542798141694,
+        "stop" : 1542798143077,
+        "duration" : 1383
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "67407a40dbd9ccc7",
+        "reportUrl" : "http://localhost:1082/job/RestApi/1/allure/#testresult/67407a40dbd9ccc7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1542798141694,
+          "stop" : 1542798143077,
+          "duration" : 1383
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "60a5f0a6d3078d98.json",
+  "parameterValues" : [ ]
+}

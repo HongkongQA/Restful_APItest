@@ -1,0 +1,110 @@
+{
+  "uid" : "ca994cc770b96f13",
+  "name" : "Redirect",
+  "fullName" : "framework.TestAllureReport.test003",
+  "historyId" : "a54fd00610f7a9d95cf655afa4ec5c87",
+  "time" : {
+    "start" : 1542946530450,
+    "stop" : 1542946530523,
+    "duration" : 73
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Basic function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "61658@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "testMethod",
+    "value" : "test003"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestAllureReport"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "hongkongqa",
+    "retries" : [ {
+      "uid" : "bbc39f6affe66962",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542860664876,
+        "stop" : 1542860664930,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "641c9939159ba371",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542859623416,
+        "stop" : 1542859623472,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "dbd272536c314fe4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542859315108,
+        "stop" : 1542859315158,
+        "duration" : 50
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a3e74a92c8948c37",
+        "reportUrl" : "http://localhost:1082/job/RestApi/1/allure/#testresult/a3e74a92c8948c37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1542860664876,
+          "stop" : 1542860664930,
+          "duration" : 54
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ca994cc770b96f13.json",
+  "parameterValues" : [ ]
+}

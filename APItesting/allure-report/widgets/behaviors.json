@@ -1,0 +1,15 @@
+{
+  "total" : 27,
+  "items" : [ {
+    "uid" : "c9ff4fc11d38c1bbf5f716284c501dab",
+    "name" : "WireMockTestDemo",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,11 @@
+framework/RunControl.class
+socket/ServerThread.class
+framework/TestRunOrder.class
+framework/TestJenkins.class
+socket/Server.class
+socket/Client.class
+framework/TestParameter.class
+framework/TestWiremock.class
+framework/TestConditionRun$groupRun.class
+framework/TestParameter$checkuser.class
+framework/TestConditionRun.class

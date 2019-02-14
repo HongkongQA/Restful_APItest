@@ -1,0 +1,50 @@
+{
+  "uid" : "af56d7bce7e0fa0f",
+  "name" : "Get_Method()",
+  "fullName" : "restassured.method.Get_Method",
+  "historyId" : "6a467ee617b67ac065165a00c97e459f",
+  "time" : {
+    "start" : 1548819114423,
+    "stop" : 1548819117242,
+    "duration" : 2819
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "78040@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "restassured.method"
+  }, {
+    "name" : "testClass",
+    "value" : "restassured.method"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get_Method"
+  }, {
+    "name" : "suite",
+    "value" : "restassured.method"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af56d7bce7e0fa0f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "156860ca5731f641",
+  "name" : "--3-- Get repo:Wrong user/Wrong repo",
+  "fullName" : "framework.TestParameter.test_ExcelDataFile",
+  "historyId" : "270a0bdd894c5cc4c2876302baa6dd1c",
+  "time" : {
+    "start" : 1542798136839,
+    "stop" : 1542798138093,
+    "duration" : 1254
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "58767@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_ExcelDataFile"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "156860ca5731f641.json",
+  "parameterValues" : [ ]
+}

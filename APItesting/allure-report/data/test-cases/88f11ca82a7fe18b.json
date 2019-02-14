@@ -1,0 +1,48 @@
+{
+  "uid" : "88f11ca82a7fe18b",
+  "name" : "RunJob()",
+  "fullName" : "framework.TestJenkins.RunJob",
+  "historyId" : "cfccf3d3b5511f48d92b12b97a32a825",
+  "time" : {
+    "start" : 1548909857489,
+    "stop" : 1548909858824,
+    "duration" : 1335
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "80334@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestJenkins"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestJenkins"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunJob"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestJenkins"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88f11ca82a7fe18b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,158 @@
+{
+  "uid" : "fcee7a52c8bb2f37",
+  "name" : "Response rule simplification settings",
+  "fullName" : "framework.TestWiremock.test002",
+  "historyId" : "2885d19110dd243d83e7ae021da99c11",
+  "time" : {
+    "start" : 1548904933503,
+    "stop" : 1548904933516,
+    "duration" : 13
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "WireMockTestDemo"
+  }, {
+    "name" : "feature",
+    "value" : "WireMockForJunit5"
+  }, {
+    "name" : "story",
+    "value" : "Basic function test"
+  }, {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "79786@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testMethod",
+    "value" : "test002"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "owner",
+    "value" : "hongkongqa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "owner" : "hongkongqa",
+    "retries" : [ {
+      "uid" : "3955697d9e8118f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548409850208,
+        "stop" : 1548409850230,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "c39b623820c59942",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548409744404,
+        "stop" : 1548409744430,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "eb6fa4e60b5139fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547456885543,
+        "stop" : 1547456885685,
+        "duration" : 142
+      }
+    }, {
+      "uid" : "6e86b60d3e295d15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547439198755,
+        "stop" : 1547439198884,
+        "duration" : 129
+      }
+    }, {
+      "uid" : "fdcad4a267b13a08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546510270692,
+        "stop" : 1546510270828,
+        "duration" : 136
+      }
+    }, {
+      "uid" : "2df20162f12a3bcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545981132179,
+        "stop" : 1545981132205,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "e50a8046991bcdde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542798412654,
+        "stop" : 1542798412682,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "2ad6845d82312575",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542798364987,
+        "stop" : 1542798365010,
+        "duration" : 23
+      }
+    }, {
+      "uid" : "7237692256b43fc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542798130085,
+        "stop" : 1542798130110,
+        "duration" : 25
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "454d75e4137d2296",
+        "reportUrl" : "http://localhost:1082/job/RestApi/1/allure/#testresult/454d75e4137d2296",
+        "status" : "passed",
+        "time" : {
+          "start" : 1542798412654,
+          "stop" : 1542798412682,
+          "duration" : 28
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "fcee7a52c8bb2f37.json",
+  "parameterValues" : [ ]
+}

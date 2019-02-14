@@ -1,0 +1,431 @@
+[ {
+  "uid" : "f7c0e02350fe9890",
+  "name" : "--3-- Get repo:Wrong user/Wrong repo",
+  "time" : {
+    "start" : 1548904940538,
+    "stop" : 1548904942283,
+    "duration" : 1745
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33f522c847d96aad",
+  "name" : "Response rule simplification settings",
+  "time" : {
+    "start" : 1542946530294,
+    "stop" : 1542946530448,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "d7b7836033ad4055",
+  "name" : "Get_Method()",
+  "time" : {
+    "start" : 1549875176411,
+    "stop" : 1549875180834,
+    "duration" : 4423
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d6e614c5edf1bb8",
+  "name" : "--1--Get the status of hongkongqa/LINK_Automation200",
+  "time" : {
+    "start" : 1548904952865,
+    "stop" : 1548904954610,
+    "duration" : 1745
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "976c25483b873a3b",
+  "name" : "ServerError",
+  "time" : {
+    "start" : 1548904933555,
+    "stop" : 1548904933568,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "55b047c4025304f8",
+  "name" : "ServerError",
+  "time" : {
+    "start" : 1542946530531,
+    "stop" : 1542946530553,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "14fee8178762d9b4",
+  "name" : "How to use the scene",
+  "time" : {
+    "start" : 1548904933598,
+    "stop" : 1548904933628,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7912bff1bb2eaa07",
+  "name" : "GetLastBuildTestResult()",
+  "time" : {
+    "start" : 1549017812877,
+    "stop" : 1549017813422,
+    "duration" : 545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c13d7a3a588de75",
+  "name" : "Get_Method()",
+  "time" : {
+    "start" : 1549017138606,
+    "stop" : 1549017140642,
+    "duration" : 2036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fbb6e3a6a557d51",
+  "name" : "Get response content from file",
+  "time" : {
+    "start" : 1542946532950,
+    "stop" : 1542946533326,
+    "duration" : 376
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "e7cdcd2bef5e1598",
+  "name" : "Test HTTPS",
+  "time" : {
+    "start" : 1542946530684,
+    "stop" : 1542946532949,
+    "duration" : 2265
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e489c62b788ee3d3",
+  "name" : "Application of priority rules",
+  "time" : {
+    "start" : 1548904933570,
+    "stop" : 1548904933596,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "bad29b95d5de6d0f",
+  "name" : "Basic listening rule settings",
+  "time" : {
+    "start" : 1548904932398,
+    "stop" : 1548904933481,
+    "duration" : 1083
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e5c5ffa7cb421686",
+  "name" : "--1-- Get repo:Hongkongqa/LINK_Automation",
+  "time" : {
+    "start" : 1548904936948,
+    "stop" : 1548904938687,
+    "duration" : 1739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abc8590104e7d7b5",
+  "name" : "Basic listening rule settings",
+  "time" : {
+    "start" : 1542946529061,
+    "stop" : 1542946530268,
+    "duration" : 1207
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8d12a49142d1aeab",
+  "name" : "Post_Method_AWQ()",
+  "time" : {
+    "start" : 1547631932164,
+    "stop" : 1547631934173,
+    "duration" : 2009
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5690ec469e1e44d0",
+  "name" : "Test HTTPS",
+  "time" : {
+    "start" : 1548904933631,
+    "stop" : 1548904935723,
+    "duration" : 2092
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "490edacab1f61787",
+  "name" : "...",
+  "time" : {
+    "start" : 1548904936044,
+    "stop" : 1548904936061,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "af56d7bce7e0fa0f",
+  "name" : "Get_Method()",
+  "time" : {
+    "start" : 1548819114423,
+    "stop" : 1548819117242,
+    "duration" : 2819
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a946cdc7c1866668",
+  "name" : "Redirect",
+  "time" : {
+    "start" : 1548904933519,
+    "stop" : 1548904933553,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebfe43b4fcda4943",
+  "name" : "--2-- Execute Post_Method",
+  "time" : {
+    "start" : 1548904968180,
+    "stop" : 1548904969204,
+    "duration" : 1024
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "96324bdfb3175a3e",
+  "name" : "demo_Get_5th_repo()",
+  "time" : {
+    "start" : 1549879312341,
+    "stop" : 1549879316288,
+    "duration" : 3947
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3727a7e3a435043f",
+  "name" : "--1--Get Repo:hongkongqa/LINK_Automation",
+  "time" : {
+    "start" : 1548904956417,
+    "stop" : 1548904958345,
+    "duration" : 1928
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "178e3856d0d773b2",
+  "name" : "Post_Method()",
+  "time" : {
+    "start" : 1548904969208,
+    "stop" : 1548904969208,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "56c64a54547481f9",
+  "name" : "Application of priority rules",
+  "time" : {
+    "start" : 1542946530560,
+    "stop" : 1542946530615,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d7705edd95d069a5",
+  "name" : "Executed 3 times to get GT user data",
+  "time" : {
+    "start" : 1548904945861,
+    "stop" : 1548904947617,
+    "duration" : 1756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f7c67a993d0f242",
+  "name" : "--2--Get the status of error/wrong404",
+  "time" : {
+    "start" : 1548904954614,
+    "stop" : 1548904956401,
+    "duration" : 1787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "811d243f4199cfad",
+  "name" : "Get_Method_AWQ()",
+  "time" : {
+    "start" : 1547631929134,
+    "stop" : 1547631932083,
+    "duration" : 2949
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79c70c119b580148",
+  "name" : "RunJob()",
+  "time" : {
+    "start" : 1549017811634,
+    "stop" : 1549017812800,
+    "duration" : 1166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca994cc770b96f13",
+  "name" : "Redirect",
+  "time" : {
+    "start" : 1542946530450,
+    "stop" : 1542946530523,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62214e1933b22aa6",
+  "name" : "--1-- Execute Get_Method",
+  "time" : {
+    "start" : 1548904966373,
+    "stop" : 1548904968177,
+    "duration" : 1804
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9007696fbdfaf0a9",
+  "name" : "Post_Method()",
+  "time" : {
+    "start" : 1549017134487,
+    "stop" : 1549017138488,
+    "duration" : 4001
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2980f7b64df06d2",
+  "name" : "--3-- contains the url field",
+  "time" : {
+    "start" : 1548904951106,
+    "stop" : 1548904952826,
+    "duration" : 1720
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2e4673a5c246535",
+  "name" : "--2-- contains the id field",
+  "time" : {
+    "start" : 1548904949516,
+    "stop" : 1548904951104,
+    "duration" : 1588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4ef3fa508151b69",
+  "name" : "Get response content from file",
+  "time" : {
+    "start" : 1548904935725,
+    "stop" : 1548904936042,
+    "duration" : 317
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "ff040612f08e788e",
+  "name" : "Executed 2 times to get rest-assured user data",
+  "time" : {
+    "start" : 1548904944120,
+    "stop" : 1548904945858,
+    "duration" : 1738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "701093f29f220e0a",
+  "name" : "--2--Get Repo:error/wrong",
+  "time" : {
+    "start" : 1548904958348,
+    "stop" : 1548904960394,
+    "duration" : 2046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcee7a52c8bb2f37",
+  "name" : "Response rule simplification settings",
+  "time" : {
+    "start" : 1548904933503,
+    "stop" : 1548904933516,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "2d80126e24dfe4c1",
+  "name" : "--2-- Get repo:Rest-assured/Rest-assured",
+  "time" : {
+    "start" : 1548904938696,
+    "stop" : 1548904940535,
+    "duration" : 1839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1762e369fd6950e",
+  "name" : "How to use the scene",
+  "time" : {
+    "start" : 1542946530617,
+    "stop" : 1542946530681,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73972f88766e091e",
+  "name" : "Executed 1 times to get hongkongqa user data",
+  "time" : {
+    "start" : 1548904942290,
+    "stop" : 1548904944117,
+    "duration" : 1827
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4feece5c36803de1",
+  "name" : "Get_Method_AWQ()",
+  "time" : {
+    "start" : 1547632048029,
+    "stop" : 1547632050268,
+    "duration" : 2239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60a5f0a6d3078d98",
+  "name" : "--1-- contains the login field",
+  "time" : {
+    "start" : 1548904947621,
+    "stop" : 1548904949512,
+    "duration" : 1891
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

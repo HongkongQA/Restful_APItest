@@ -1,0 +1,48 @@
+{
+  "uid" : "fccd27bb842db028",
+  "name" : "--2-- Get repo:Rest-assured/Rest-assured",
+  "fullName" : "framework.TestParameter.test_ExcelDataFile",
+  "historyId" : "1d57cab033a8a219665c119a835eab31",
+  "time" : {
+    "start" : 1547452773484,
+    "stop" : 1547452775720,
+    "duration" : 2236
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "47004@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_ExcelDataFile"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fccd27bb842db028.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "2fa47b49b5e801fb",
+  "name" : "--1-- contains the login field",
+  "fullName" : "framework.TestParameter.test_enum",
+  "historyId" : "358e9eef6bc63ad7b5ac65e7c419be5e",
+  "time" : {
+    "start" : 1547452789437,
+    "stop" : 1547452791506,
+    "duration" : 2069
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "47007@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_enum"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fa47b49b5e801fb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "1ee1e6efca219273",
+  "name" : "--2--Get Repo:error/wrong",
+  "fullName" : "framework.TestParameter.test_csvFile",
+  "historyId" : "c6e384651be99dd0d2655f436ec0f216",
+  "time" : {
+    "start" : 1545981149559,
+    "stop" : 1545981150544,
+    "duration" : 985
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "5027@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_csvFile"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ee1e6efca219273.json",
+  "parameterValues" : [ ]
+}

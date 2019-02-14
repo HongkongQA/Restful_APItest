@@ -1,0 +1,48 @@
+{
+  "uid" : "7a7c258db081ea74",
+  "name" : "Get_Method()",
+  "fullName" : "framework.RunControl.Get_Method",
+  "historyId" : "cadf3ce20739fa4f7b1eff6a89f3146b",
+  "time" : {
+    "start" : 1548409871020,
+    "stop" : 1548409872016,
+    "duration" : 996
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "71015@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get_Method"
+  }, {
+    "name" : "suite",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a7c258db081ea74.json",
+  "parameterValues" : [ ]
+}

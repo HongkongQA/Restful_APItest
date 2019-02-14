@@ -1,0 +1,59 @@
+{
+  "uid" : "811d243f4199cfad",
+  "name" : "Get_Method_AWQ()",
+  "fullName" : "framework.RunControl.Get_Method_AWQ",
+  "historyId" : "450cf812748ed1627135923a317dfcca",
+  "time" : {
+    "start" : 1547631929134,
+    "stop" : 1547631932083,
+    "duration" : 2949
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "52228@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "testMethod",
+    "value" : "Get_Method_AWQ"
+  }, {
+    "name" : "suite",
+    "value" : "framework.RunControl"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "900bda2f6d7c235e",
+      "status" : "skipped",
+      "statusDetails" : "Script `var time = new Date()\ntime.getHours() > 16` evaluated to: true",
+      "time" : {
+        "start" : 1547631911191,
+        "stop" : 1547631911193,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "811d243f4199cfad.json",
+  "parameterValues" : [ ]
+}

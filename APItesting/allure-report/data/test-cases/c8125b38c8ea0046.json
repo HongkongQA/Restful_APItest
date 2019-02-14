@@ -1,0 +1,48 @@
+{
+  "uid" : "c8125b38c8ea0046",
+  "name" : "--1--Get Repo:hongkongqa/LINK_Automation",
+  "fullName" : "framework.TestParameter.test_csvFile",
+  "historyId" : "74d6712fdd7c6af48f1bbbada1c2af81",
+  "time" : {
+    "start" : 1547452791299,
+    "stop" : 1547452793033,
+    "duration" : 1734
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "47004@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_csvFile"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestParameter"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8125b38c8ea0046.json",
+  "parameterValues" : [ ]
+}

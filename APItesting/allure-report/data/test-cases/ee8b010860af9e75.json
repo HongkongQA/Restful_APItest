@@ -1,0 +1,48 @@
+{
+  "uid" : "ee8b010860af9e75",
+  "name" : "ServerError",
+  "fullName" : "framework.TestWiremock.test004",
+  "historyId" : "aefa4e8362c482c2b5b5b58072aab4ea",
+  "time" : {
+    "start" : 1542798412738,
+    "stop" : 1542798412769,
+    "duration" : 31
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MBP-457-18s-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "58817@MBP-457-18s-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "package",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testClass",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "testMethod",
+    "value" : "test004"
+  }, {
+    "name" : "suite",
+    "value" : "framework.TestWiremock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee8b010860af9e75.json",
+  "parameterValues" : [ ]
+}
